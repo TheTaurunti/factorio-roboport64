@@ -1,11 +1,11 @@
 {
-	"name": "Roboport64",
-	"version": "1.0.1",
-	"title": "Roboport64",
-	"author": "Taurunti",
-	"contact": "thetaurunti@gmail.com",
+  "name": "Roboport64",
+  "version": "1.0.1",
+  "title": "Roboport64",
+  "author": "Taurunti",
+  "contact": "thetaurunti@gmail.com",
   "homepage": "https://github.com/TheTaurunti/factorio-roboport64",
-	"factorio_version": "1.1",
-	"dependencies": ["base >= 1.1"],
-	"description": "Roboport logistic area set to 64x64. Construction area increased accordingly."
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "Roboport logistic area set to 64x64. Construction area increased accordingly."
 }
